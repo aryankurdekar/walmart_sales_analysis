@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-[![Walmart Project Pipeline - Aryan Kurdekar](images/walmart_sales.jpg)](https://drive.google.com/file/d/1mbT7aDvcwlthlh_GcVe8XXEqS0UqjnHX/view?usp=drive_link)
+[![Walmart Project Pipeline - Aryan Kurdekar](https://drive.google.com/uc?export=view&id=1mbT7aDvcwlthlh_GcVe8XXEqS0UqjnHX)](https://drive.google.com/file/d/1mbT7aDvcwlthlh_GcVe8XXEqS0UqjnHX/view?usp=drive_link)
+
 
 
 
