@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Walmart Project Pipeline - Aryan Kurdekar](https://raw.github.com/aryankurdekar/walmart_sales_analysis/main/images/walmart_project-pipelines.png)
+![Walmart Project Pipeline - Aryan Kurdekar](https://drive.google.com/file/d/1mbT7aDvcwlthlh_GcVe8XXEqS0UqjnHX/view?usp=drive_link))
 
 
 
